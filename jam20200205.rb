@@ -1,7 +1,7 @@
 #fall in deep -Aoi Sho
 
 
-use_bpm 120   #ËÙ¶È
+use_bpm 120   
 
 live_loop :drum do
   with_fx :slicer ,pulse_width: 0.5 do
